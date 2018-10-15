@@ -5,7 +5,7 @@ Welcome to my website!
 
 My name is Josshings, I'm a cybersecurity enthusiast and aspiring penetration tester.
 
-I primarily promote in Python, when I make some cool scripts I'll be sure to upload theme here!
+I primarily code in Python, when I make some cool scripts I'll be sure to upload theme here!
 
 
 ### Contact Info
